@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit 😊 Vishwakarma</h1>
-<h3 align="center">A passionate Full Stack Developer from India. Learning Machine Learning and new technologies and interested in contributions that make my knowledge useful for others.</h3>
+<h3 align="center">A passionate Web Developer from India. Learning Machine Learning and new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-vishvakarma&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-vishvakarma" /> </p>
 
